@@ -1,0 +1,22 @@
+{
+  "name": "rd-challenges",
+  "version": "1.0.0",
+  "main": "customer-success-balancing.js",
+  "private": true,
+  "scripts": {
+    "start": "node customer-success-balancing.js",
+    "test": "jest"
+  },
+  "dependencies": {
+    "jest": "^26.6.3"
+  },
+  "jest": {
+    "testMatch": [
+      "**/*.js"
+    ]
+  },
+  "description": "No terminal, execute os comandos:",
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
+}
