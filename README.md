@@ -1,19 +1,18 @@
-# Javascript
-## Como rodar os testes
+# Desafio Técnico - Customer Success Balancing
 
-No terminal, execute os comandos:
+## Descrição
 
-```bash
-cd javascript
-yarn
-yarn test
-```
+Este projeto implementa um sistema de balanceamento entre clientes e Gerentes de Sucesso (Customer Success, CSs). O objetivo é distribuir clientes para CSs de forma eficiente, considerando a experiência dos CSs e a disponibilidade deles. Foi levado em conta a prática de clean code e um codigo que apesar de ter certa complexidade foi priorizado o fato do codigo poder ler lido facilmente.
 
-Ou usando o NPM:
+## Requisitos
 
-```bash
-cd javascript
-npm install
-npm test
-```
-# JS-tests
+- **Node.js**: Certifique-se de ter o Node.js instalado para executar o código e os testes.
+- **Para a instalação do node.js, siga esses seguintes passos:** : **1.Npm install; npm start, npm test**
+- **Jest**: Utilizado para a execução dos testes automatizados.
+
+## Instalação
+
+1. Clone o repositório:
+   ```bash
+   git clone <link-do-repositorio>
+   cd <nome-do-repositorio>

@@ -16,6 +16,7 @@ function customerSuccessBalancing(customerSuccess, customers, customerSuccessAwa
   const customerAssignmentsCount = new Map(availableCustomerSuccess.map(cs => [cs.id, 0]));
 
   // Atribuir clientes ao CS mais adequado 
+  
   customers.forEach(customer => {
       const bestCS = availableCustomerSuccess.find(cs => cs.score >= customer.score);
       
