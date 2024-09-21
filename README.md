@@ -37,4 +37,5 @@ Este projeto implementa um sistema de balanceamento entre clientes e Gerentes de
 
 ## Estrutura do Código 
 **customerSuccessBalancing.js: Contém a implementação da função customerSuccessBalancing, que realiza o balanceamento de clientes.**
+
 **customerSuccessBalancing.test.js: Contém os testes automatizados para garantir que a função funcione corretamente.**
